@@ -1,6 +1,8 @@
 # Denoising Images using Autoencoders
 This project was my Capstone Project for the Udacity Machine Learning Engineer Nanodegree.
 
+<img src="mle-nd-cert.jpg" alt="drawing" width="750"/>
+
 # Required Libraries
 - numpy
 - tensorflow
