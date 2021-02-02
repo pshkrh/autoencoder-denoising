@@ -8,9 +8,10 @@ This project was my Capstone Project for the Udacity Machine Learning Engineer N
 - matplotlib
 - pandas
 
-# Dataset Link
-Kaggle Competition - https://www.kaggle.com/c/denoising-dirty-documents
-UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/datasets/NoisyOffice
+# Dataset Links
+[Kaggle Competition](https://www.kaggle.com/c/denoising-dirty-documents)
+
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/NoisyOffice)
 
 # Execution
 The code has been tested on Google Colab, with a GPU runtime.
