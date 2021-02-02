@@ -1,9 +1,9 @@
 # Required Libraries
-numpy
-tensorflow
-scikit-learn
-matplotlib
-pandas
+- numpy
+- tensorflow
+- scikit-learn
+- matplotlib
+- pandas
 
 # Dataset Link
 Kaggle Competition - https://www.kaggle.com/c/denoising-dirty-documents
